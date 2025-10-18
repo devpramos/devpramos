@@ -74,18 +74,21 @@
 
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=devpramos&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
-  />
-
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpramos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_bust=20251018" 
-  />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=devpramos&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpramos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_bust=20251018" 
+      />
+    </td>
+  </tr>
+</table>
