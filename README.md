@@ -79,7 +79,7 @@
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=devpramos&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="[https://github-readme-stats.vercel.app/api?username=devpramos&show_icons=true&theme=tokyonight&locale=pt-br](https://github-readme-stats.vercel.app/api?username=devpramos&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true)" 
   />
 
   <img 
