@@ -74,7 +74,7 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=devpramos&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=1800&cache_bust=20251019" 
@@ -85,4 +85,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpramos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800&cache_bust=20251019"
     alt="Top Languages"
   />
-</p>
+</div>
